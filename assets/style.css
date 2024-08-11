@@ -7,6 +7,7 @@ body {
     background-color:blanchedalmond;
 }
 
+/* Added Z-index to bring to the front */
 .header {
     background-color: #28604e;
     width: 100%;
